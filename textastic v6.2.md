@@ -14,7 +14,7 @@ These are the steps necessary to open a Git repository in Textastic 6.2:
 * The repository is now added as an external folder below the "Open…" command.  
   <img src="img/screenshot_external_folder.png" alt="" style="max-width: 100%; max-height: 300px" />
 
-It can be used just as "Local Files" or "iCloud": You can edit existing files and add new ones. You can download and upload files. Web preview is fully supported. Changes you make will be immediately shown in Working Copy. You can then commit your changes in Working Copy. This works great in Split View mode on the iPad.
+The external folder can be used just as "Local Files" or "iCloud": You can edit existing files and add new ones. You can download and upload files. Web preview is fully supported. Changes you make will be immediately shown in Working Copy. You can then commit your changes in Working Copy. This works great in Split View mode on the iPad.
 
 
 You can see this in action in the short video at http://bit.ly/textastic62
